@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\PaymentTracker\PaymentTracker\bin\Debug\PaymentTracker.exe.config
+C:\Users\user\source\repos\PaymentTracker\PaymentTracker\bin\Debug\PaymentTracker.exe
+C:\Users\user\source\repos\PaymentTracker\PaymentTracker\bin\Debug\PaymentTracker.pdb
+C:\Users\user\source\repos\PaymentTracker\PaymentTracker\obj\Debug\PaymentTracker.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PaymentTracker\PaymentTracker\obj\Debug\PaymentTracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\PaymentTracker\PaymentTracker\obj\Debug\PaymentTracker.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PaymentTracker\PaymentTracker\obj\Debug\PaymentTracker.exe
+C:\Users\user\source\repos\PaymentTracker\PaymentTracker\obj\Debug\PaymentTracker.pdb
+C:\Users\user\source\repos\PaymentTracker\PaymentTracker\bin\Debug\Baseline.dll
+C:\Users\user\source\repos\PaymentTracker\PaymentTracker\obj\Debug\PaymentTracker.csproj.CopyComplete

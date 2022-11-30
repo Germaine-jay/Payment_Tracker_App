@@ -5,6 +5,10 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentTracker", "PaymentTracker\PaymentTracker.csproj", "{5B07B319-6414-4550-A17D-9C11815F2B09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM_app", "..\ATM_app\ATM_app\ATM_app.csproj", "{00AF9CFE-7B49-4C3D-950B-E180433D5A4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom Exception", "..\Encryption\Costom Exception\Custom Exception.csproj", "{3EFBC5C4-DA60-4B27-94F2-4FA8225671AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5B07B319-6414-4550-A17D-9C11815F2B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B07B319-6414-4550-A17D-9C11815F2B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B07B319-6414-4550-A17D-9C11815F2B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AF9CFE-7B49-4C3D-950B-E180433D5A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AF9CFE-7B49-4C3D-950B-E180433D5A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AF9CFE-7B49-4C3D-950B-E180433D5A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AF9CFE-7B49-4C3D-950B-E180433D5A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EFBC5C4-DA60-4B27-94F2-4FA8225671AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFBC5C4-DA60-4B27-94F2-4FA8225671AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFBC5C4-DA60-4B27-94F2-4FA8225671AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFBC5C4-DA60-4B27-94F2-4FA8225671AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
